@@ -1,2 +1,3 @@
 # gitdemo
-this is my first repsitory
+this is my first repository
+Author-pappu yadav.
